@@ -14,8 +14,8 @@ This Data science project seeks to analyze the various fields where Streetdance 
 1. **HHI 2019 Notebook by Juan Lorenzo Mercado** - A notebook focused on searching for insights from the results of the Hip Hop International 2019 World Competition.
 
 ----
-##### References
+## References
 1. Hip Hop international. (n.d.). World hip hop dance championship. Hip Hop International. https://www.hiphopinternational.com/world-hip-hop-dance-championship/
 
-##### Database Resource
+## Database Resource
 1. *Hip Hop International (Results) -* http://www.hiphopinternational.com/medalists/
