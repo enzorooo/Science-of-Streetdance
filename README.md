@@ -11,11 +11,14 @@ Streetdance competitions has become technical in various aspects determining the
 This Data science project seeks to analyze the various fields where Streetdance is involved with various datasets. It seeks to analyze findings in hopes to improve the competitive landscape of competitive Streetdance through various applications in Data Science.
 
 ## Notebooks available
-1. **HHI 2019 Notebook** - A notebook focused on searching for insights from the results of the Hip Hop International 2019 World Competition.
+1. **HHI 2019 Notebook by Juan Lorenzo Mercado** - A notebook focused on searching for insights from the results of the Hip Hop International 2019 World Competition.
 
 ----
-##### References
+## References
 1. Hip Hop international. (n.d.). World hip hop dance championship. Hip Hop International. https://www.hiphopinternational.com/world-hip-hop-dance-championship/
 
-##### Database Resource
+## Database Resource
 1. *Hip Hop International (Results) -* http://www.hiphopinternational.com/medalists/
+----
+## Future Project Plans
+1. Kinetic Analysis of Dance through computer vision (ex. https://www.youtube.com/watch?v=ljduUwprIZI&feature=youtu.be)
