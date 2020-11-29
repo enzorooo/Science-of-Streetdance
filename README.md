@@ -19,3 +19,6 @@ This Data science project seeks to analyze the various fields where Streetdance 
 
 ## Database Resource
 1. *Hip Hop International (Results) -* http://www.hiphopinternational.com/medalists/
+----
+## Future Project Plans
+1. Kinetic Analysis of Dance through computer vision (ex. https://www.youtube.com/watch?v=ljduUwprIZI&feature=youtu.be)
