@@ -10,6 +10,10 @@ Streetdance competitions has become technical in various aspects determining the
 ## Rationale
 This Data science project seeks to analyze the various fields where Streetdance is involved with various datasets. It seeks to analyze findings in hopes to improve the competitive landscape of competitive Streetdance through various applications in Data Science.
 
+## Dataset ID
+**BIGQUERY**
+1. **HHI 2019** - science-of-streetdance:hiphopinternational
+
 ## Notebooks available
 1. **HHI 2019 Notebook by Juan Lorenzo Mercado** - A notebook focused on searching for insights from the results of the Hip Hop International 2019 World Competition.
 
